@@ -21,4 +21,4 @@ This repository contains data science mini projects and assignments implemented 
 Educational mini projects and practice assignments.
 
 ## Author
-Revanth
+Revanth Kumar.S
